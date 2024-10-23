@@ -1,1 +1,2 @@
 This repo is the replication code for the paper "How and when are high frequency stock returns predictable". We replicated the methodoogy in the paper using tick level data on HS 300 stocks. 
+I've been looking for the original code related to this article on the website but haven't been able to find it. Do you happen to have it? If so, could you please send it to me at lizhuyu0102@gmail.com? Thank you!
